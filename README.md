@@ -1,2 +1,2 @@
 # Clash-Royale
-Clash
+Clash Royale clone done for final project of ICS2O
